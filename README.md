@@ -51,3 +51,16 @@ Genre analysis helped identify the most common movie categories on Netflix.
 Popularity analysis revealed the most and least popular movies.
 Release year trends showed periods with the highest movie production.
 Rating categorization provided a better understanding of audience reception.
+
+## Author
+
+Rohit Yadav
+
+MCA Student | Aspiring Data Analyst
+
+### Skills
+Python | SQL | Excel | Power BI | Pandas | NumPy | Data Visualization
+
+---
+
+⭐ If you found this project useful, feel free to star this repository.
